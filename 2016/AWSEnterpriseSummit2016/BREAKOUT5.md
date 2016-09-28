@@ -63,4 +63,4 @@ Gate Process / Architecture Review
 - **Rule of thumb**: Shoot for 20-30% of Amazon EC2 instances running on demand to be able to handle elasticity needs
 
 ###### Measure monitor, continuously Improve
--
+- Look at the consumption model by industry, workload (dev/test/prod)
