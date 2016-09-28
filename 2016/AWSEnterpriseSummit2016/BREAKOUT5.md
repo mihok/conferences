@@ -1,7 +1,7 @@
 ## Cost Optimization at Scale
 ##### Speaker: Shabaz Alam
 
-Balance between Performance, Reliability, Security Cost, Optimization.
+Balance between Performance, Reliability, Security, Cost Optimization.
 
 ### **TCO**, Total Cost of Ownership
 
