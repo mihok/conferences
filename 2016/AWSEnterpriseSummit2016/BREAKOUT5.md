@@ -64,3 +64,4 @@ Gate Process / Architecture Review
 
 ###### Measure monitor, continuously Improve
 - Look at the consumption model by industry, workload (dev/test/prod)
+- Cost Metric: Unit cost = Total cost / Business metric (APs online)
