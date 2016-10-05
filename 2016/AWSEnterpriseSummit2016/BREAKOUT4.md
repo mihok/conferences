@@ -1,5 +1,6 @@
 ## Protecting Your Data in AWS
 ##### Speaker: Danielle Greshock
+##### Slides: http://www.slideshare.net/AmazonWebServices/protecting-your-data-in-aws-toronto
 
 - Understand your options for protecting data with encryption in AWS
 - Securing acces to data on Amazon S3 using policies
@@ -28,4 +29,4 @@
   - Client Side encryption
   - Server Side encryption
 - AWS Key Management Service (*Integrated with CloudTrail!*)
-- 
+-

@@ -1,5 +1,6 @@
 ## Cost Optimization at Scale
 ##### Speaker: Shabaz Alam
+##### Slides: http://www.slideshare.net/AmazonWebServices/cost-optimization-at-scale-toronto-v3
 
 Balance between Performance, Reliability, Security, Cost Optimization.
 

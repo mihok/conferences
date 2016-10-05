@@ -3,6 +3,8 @@
 ## Future of Enterprise IT - Keynote
 
 ##### Speaker: Stephen Orban
+##### Slides: http://www.slideshare.net/AmazonWebServices/keynote-future-of-it-future-of-enterprise-it-canada
+
 - Marketing to moving enterprise to AWS and/or cloud managed IT
 - DevOps becoming mainstream, breaking into enterprises
 

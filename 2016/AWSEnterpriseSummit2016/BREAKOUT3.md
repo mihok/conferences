@@ -1,5 +1,6 @@
 ## Compliance in the Cloud Using Security by Design
 ##### Speaker: Felix Candelario
+##### Slides: http://www.slideshare.net/AmazonWebServices/compliance-in-the-cloud-using-sb-d-torontosummitv10
 
 
 *Increasing complexity (mobility, system connectivity) causes increasing difficulty in managing risk and security and demonstrating compliance*

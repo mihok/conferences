@@ -2,6 +2,7 @@
 >"Put everything possible into a repository!"
 
 ##### Speaker: Hubert Cheung
+##### Slides: http://www.slideshare.net/AmazonWebServices/devops-on-aws-deep-dive-on-infrastructure-as-code-toronto
 
 ### Deep Dive on Infrastructure as Code
 

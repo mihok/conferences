@@ -3,6 +3,7 @@
 *This breakout was so goddamn slow and confusing flow what happened to 5,6,7,8?*
 
 ##### Speaker: Rahul Sareen
+##### Slides: http://www.slideshare.net/AmazonWebServices/getting-started-with-aws-security-toronto-rs
 
 Approach:
  1. Understand AWS Security Practice
